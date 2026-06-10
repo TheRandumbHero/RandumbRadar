@@ -84,3 +84,17 @@ Now is the fun stuff. Head back to the Dashboard, Click Customisations and go cr
   <a href="/images/Customisation.png">
     <img src="/images/Customisation.png" width="180" alt="Initial">
   </a>
+
+  <a href="/images/Green_Custom.png">
+    <img src="/images/Green_Custom.png" width="180" alt="Green">
+  </a>
+
+  <a href="/images/Blue_Custom.png">
+    <img src="/images/Blue_Custom.png" width="180" alt="Blue">
+
+  <a href="/images/Red_Custom.png">
+    <img src="/images/Red_Custom.png" width="180" alt="Red">
+  </a>
+   
+  </a>
+</p>
