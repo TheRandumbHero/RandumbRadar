@@ -47,7 +47,7 @@ So without further ado please see below!
 > [!CAUTION]
 > By Flashing your ESP32 it will wipe any other app you currently have running - I would advice unplugging any other ESP's you may have plugged in just incase you select the wrong COM Port.
 
-Connect the ESP32 to your PC with a USB-C cable and head to [LINK](https://therandumbhero.github.io/RandumbRadarOS/) this will open up a webflasher - Flash your ESP32 and wait for it to complete.
+Connect the ESP32 to your PC with a USB-C cable and head to [LINK](https://therandumbhero.github.io/RandumbRadar/) this will open up a webflasher - Flash your ESP32 and wait for it to complete.
 
 # Initial Setup
 
