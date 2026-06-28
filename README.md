@@ -27,7 +27,6 @@ So without further ado please see below!
 7. Push ESP32 Board into mount on the base
 8. Slide cabinet ontop of base.
 
-
 ## Pin Layout
  <div align="center">
 
