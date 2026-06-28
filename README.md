@@ -1,7 +1,7 @@
 <p align="center">
 <img src="/images/RandumbRadar_Logo.png" alt="RR_Logo" style="width:200px;"/>
 
-#Version 2.0.0 now available! - Reflash Required
+# Version 2.0.0 now available! - Reflash Required
 
 Theres a few of these online now and I wanted to add my own flair to my own so I set about designing my own code (with the help of ChatGPT) and my own 3D printed case. Whilst this is not a fork or remix it is heavily inspired by @github/arvis91/
 The idea was to see whether I could create my own Desktop Radar software with a 3D printed case that only uses friction fit for all the componants and if possible to make it plug and play with no requirement for soldering if you weren't confident. 
